@@ -204,7 +204,7 @@ li{
 }
 
   
-  for first page small screen
+  /*for first page small screen*/
 @media only screen and (max-width:400px) {
 	.image1{
 		width:350px;
@@ -273,7 +273,7 @@ li{
 	color:hsl(233, 8%, 62%);
 }
 
-service mobile screen design
+/*service mobile screen design*/
 @media only screen and (max-width:400px){
 	.service-layout{
 		margin-bottom:20px;
